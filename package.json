@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carlosdizx/node-mongoose/issues"
   },
-  "homepage": "https://github.com/carlosdizx/node-mongoose#readme"
+  "homepage": "https://github.com/carlosdizx/node-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^6.0.12"
+  }
 }
