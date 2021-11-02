@@ -1,0 +1,19 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "Node mongoose example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdizx/node-mongoose.git"
+  },
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdizx/node-mongoose/issues"
+  },
+  "homepage": "https://github.com/carlosdizx/node-mongoose#readme"
+}
